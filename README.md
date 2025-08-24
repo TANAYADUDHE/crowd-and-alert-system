@@ -1,2 +1,2 @@
-Crowd monitoring & alert system project.
+This is the Crowd monitoring & alert system project.
 
